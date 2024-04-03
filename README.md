@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hyungyu+Andy+Lee;alias+tentiti)](https://git.io/typing-svg)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=tentiti)](https://solved.ac/tentiti)
 
