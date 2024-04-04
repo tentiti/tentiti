@@ -31,10 +31,12 @@ I am an undergraduate student learning Art & Technology at Sogang University, Se
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white">
 
 #### Learning 📝
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Framer-white?style=for-the-badge&logo=Framer&logoColor=0055FF">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
 
 #### Meet Me at 💝
 <a href="https://hyungyulee.xyz">
